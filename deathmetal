@@ -1,0 +1,50 @@
+<html>
+<body bgcolor="black">
+<title>Death Metal</title>
+<style>
+      h1 {text-align: center;
+      color: white;}
+      h2 {text-align: center;
+      color: white;}
+      h3 {text-align: center;
+      color: white;}
+      h4 {text-align: center;
+      color: white;}
+      h5 {text-align: center;
+      color: white;}
+      li{text-align: center;
+      color: white;}
+      p {text-align: center;
+      color: white;}
+      p#left {text-align: left;
+            color: white;}
+      .center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      }
+      ul {
+            list-style-position: inside;
+            text-align: center;
+      }
+ </style>
+   <h2><b>What exactly is death metal?</b></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
